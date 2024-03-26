@@ -1,0 +1,35 @@
+  @font-face {
+  font-family: "Avenir Next";
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url("../fonts/avenirnext.woff2") format("woff2"),
+       url("//quietflightsurfboards.com/cdn/fonts/avenir_next/avenirnext_n5.9e88d20fa9eb66ba268ac60ab013006ef69a310a.woff?h1=cXVpZXRmbGlnaHRzdXJmYm9hcmRzLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=cXVpZXRmbGlnaHRzdXJmYm9hcmRzLmNvbQ&hmac=8e2e9ffc56e0fe3cacbf4d3212e2d4088abf829029bcaadbb26da3f56164317a") format("woff");
+}
+
+      @font-face {
+  font-family: "Avenir Next";
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("../fonts/avenirnext.woff2") format("woff2"),
+       url("//quietflightsurfboards.com/cdn/fonts/avenir_next/avenirnext_n7.25b10f8089bc87dfd8e50a7c68b433da7a04bc87.woff?h1=cXVpZXRmbGlnaHRzdXJmYm9hcmRzLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=cXVpZXRmbGlnaHRzdXJmYm9hcmRzLmNvbQ&hmac=dd36f43f356a1215acdd3fbdaf038346463e298db5ad8b1601d317545784bab9") format("woff");
+}
+
+      @font-face {
+  font-family: "Avenir Next";
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+  src: url("../fonts/avenirnext.woff2") format("woff2"),
+       url("//quietflightsurfboards.com/cdn/fonts/avenir_next/avenirnext_i5.fcfa37c68ca483c41031623bfae4701d99bb4b95.woff?h1=cXVpZXRmbGlnaHRzdXJmYm9hcmRzLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=cXVpZXRmbGlnaHRzdXJmYm9hcmRzLmNvbQ&hmac=3360f421b0d18f7556d3ea30f264f5d5ac58be06c5d02bedc205d427973d1982") format("woff");
+}
+
+      @font-face {
+  font-family: "Avenir Next";
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+  src: url("../fonts/avenirnext.woff2") format("woff2"),
+       url("//quietflightsurfboards.com/cdn/fonts/avenir_next/avenirnext_i7.b872875ff437f0efb4c2321d0016eaa726b649ae.woff?h1=cXVpZXRmbGlnaHRzdXJmYm9hcmRzLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=cXVpZXRmbGlnaHRzdXJmYm9hcmRzLmNvbQ&hmac=b145792eb836387ed714b49573c8d2fc97f29da056d5dfaeb9b059386e57d315") format("woff");
+}
